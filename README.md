@@ -81,6 +81,20 @@ python manage.py runserver
 http://localhost:8000
 You’ll now see the Malicious URL Detector in action 🚀
 
+---
+
+## 📸 Project Screenshots
+
+### 🔹 Single URL Prediction
+![Single URL Output](screenshots/single-url-output.png)
+
+---
+
+### 🔹 Multiple URLs Prediction
+![Multiple URL Output](screenshots/multi-url-output.png)
+
+
+
 ## 📊 Model Comparison
 
 | Model               | Accuracy (%) |
