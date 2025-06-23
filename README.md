@@ -82,17 +82,16 @@ http://localhost:8000
 You’ll now see the Malicious URL Detector in action 🚀
 
 ## 📊 Model Comparison
-## Model	                    Accuracy (%)
 
-SVM	                               96.12
+| Model               | Accuracy (%) |
+|---------------------|--------------|
+| Support Vector Machine (SVM) | **96.12**       |
+| Naive Bayes         | ~92          |
+| Logistic Regression | ~93.5        |
+| Decision Tree       | ~90          |
 
-Naive Bayes	                        ~92
+🧠 *All models were trained on a dataset of ~61,000 URLs using TF-IDF feature extraction.*
 
-Logistic Regression	                ~93.5
-
-Decision Tree	                    ~90
-
-Trained on a dataset of 61,000 URLs using TF-IDF features.
 
 ## 📁 Dataset Note
 
