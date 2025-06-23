@@ -83,7 +83,16 @@ You’ll now see the Malicious URL Detector in action 🚀
 
 ---
 
+---
+
 ## 📸 Project Screenshots
+
+The web app allows you to enter **single or multiple URLs** and instantly classifies each as **Benign (Safe)** or **Malicious** based on the trained ML model.
+
+- ✅ A **green circle** means the URL is **benign (safe)**  
+- ❌ A **red circle** means the URL is **malicious**
+
+---
 
 ### 🔹 Single URL Prediction
 ![Single URL Output](screenshots/single-url-output.png)
