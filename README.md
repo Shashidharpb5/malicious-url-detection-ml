@@ -85,8 +85,11 @@ You’ll now see the Malicious URL Detector in action 🚀
 ## Model	                    Accuracy (%)
 
 SVM	                               96.12
+
 Naive Bayes	                        ~92
+
 Logistic Regression	                ~93.5
+
 Decision Tree	                    ~90
 
 Trained on a dataset of 61,000 URLs using TF-IDF features.
